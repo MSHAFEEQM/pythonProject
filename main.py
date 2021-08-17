@@ -1,5 +1,5 @@
-a=toInteger(input("Enter first value"))
-b=input("Enter second value")
+a=int(input("Enter first value  :"))
+b=int(input("Enter second value :"))
 
 c= a+b
 
